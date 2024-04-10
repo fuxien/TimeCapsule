@@ -8,4 +8,4 @@ Veriler günümüz tarihine göre geçenler,zamanı gelenler ve gelecektekiler o
 Zamanı gelen ve geçen notlar açılıp okunabilmektedir. Listelerde sadece okunmamış olanlar görüntülenebilmektedir. Bir not zamanı gelmiş ve açılmışsa bir daha uygulama içerisinde görünmeyecektir.<br>
 Bu işlem için veritabanı tablomuzda unread alanı oluşturulmuş bu alandaki veri 1 ise okunmamış 0 ise okunmuş demektir.<br>
 2. Formumuz ise zamanı gelmiş veya geçmiş notları okuduğumuz bir formdur. Bu form kapatıldığında bir uyarı ile bu notun bir daha okunamayacağı uyarı şeklinde verilemktedir.<br>
-Uygulanaın veri tabanı ayarları App.config isimli dosyada bulunan connectionStrings alanındaki MyConnectionString isimli bölümden değiştirilebilir.<br>
+Uygulamanın veri tabanı ayarları App.config isimli dosyada bulunan connectionStrings alanındaki MyConnectionString isimli bölümden değiştirilebilir.<br>
